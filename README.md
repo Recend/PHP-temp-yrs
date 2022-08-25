@@ -17,13 +17,13 @@ $menesiuDienos = array (1=>31, 2=>28, 3=>31, 4=>30, 5=>31, 6=>30, 7=>31, 8=>31, 
 
 Parašykite programą kuris atspausdintų:
 
-Metuose yra 7 mėnesiai turintys 31 dieną
-Metuose yra 4 mėnesiai turintys 30 dienų 
-Metuose yra 1 mėnuo turintis 28 dienas
-Viso metuose yra 365 dienos
-Sausis yra 1 mėnuo jis turi 31 d.
-Vasaris yra 2 mėnuo jis turi 28 d.
-Kovas yra 3 mėnuo jis turi 31 d.
+Metuose yra 7 mėnesiai turintys 31 dieną,
+Metuose yra 4 mėnesiai turintys 30 dienų,
+Metuose yra 1 mėnuo turintis 28 dienas,
+Viso metuose yra 365 dienos,
+Sausis yra 1 mėnuo jis turi 31 d.,
+Vasaris yra 2 mėnuo jis turi 28 d.,
+Kovas yra 3 mėnuo jis turi 31 d.,
 Visi pakreipti ir pastorinti tekstai turi būti paimami iš masyvų.
 
 
